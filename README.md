@@ -67,7 +67,7 @@ $z = \frac{x - \min(x)}{\max(x) - \min(x)}$
 
 ### İstatistiksel Grafikeler:
 Normalize edilmeiş veri setinin Box Plot grafiği <br>
-<img src="[https://github.com/user-attachments/assets/92c30c72-02fd-4d64-99e4-776081d354a6](https://github.com/user-attachments/assets/2a06f0d9-89fb-4154-a58d-ca6df8f48a9c)" alt="image" width="600"/><br><br>
+<img src="https://github.com/user-attachments/assets/2a06f0d9-89fb-4154-a58d-ca6df8f48a9c" alt="image" width="600"/><br><br>
 Korelasyon Matrisi<br>
 <img src="https://github.com/user-attachments/assets/dfc49e23-afba-4dd6-a0ce-7f6cba36a30b" alt="image" width="600"/><br><br>
 0_pre-RR Sütunu için normal-anormal veri dağılımı<br>
