@@ -67,13 +67,13 @@ $z = \frac{x - \min(x)}{\max(x) - \min(x)}$
 
 ### İstatistiksel Grafikeler:
 Normalize edilmeiş veri setinin Box Plot grafiği <br>
-<img src="https://github.com/user-attachments/assets/92c30c72-02fd-4d64-99e4-776081d354a6" alt="image" width="600"/><br><br>
+<img src="[https://github.com/user-attachments/assets/92c30c72-02fd-4d64-99e4-776081d354a6](https://github.com/user-attachments/assets/2a06f0d9-89fb-4154-a58d-ca6df8f48a9c)" alt="image" width="600"/><br><br>
 Korelasyon Matrisi<br>
-<img src="https://github.com/user-attachments/assets/5ab9deea-6703-4f6e-816c-2aa54b217227" alt="image" width="600"/><br><br>
+<img src="https://github.com/user-attachments/assets/dfc49e23-afba-4dd6-a0ce-7f6cba36a30b" alt="image" width="600"/><br><br>
 0_pre-RR Sütunu için normal-anormal veri dağılımı<br>
-<img src="https://github.com/user-attachments/assets/533d8216-8023-4b32-9bac-4b342e5954f4" alt="image" width="600"/><br><br>
+<img src="https://github.com/user-attachments/assets/24519b47-dac9-48ef-b847-38073f384c4f" alt="image" width="600"/><br><br>
 Veri setindeki dengeli dağılım<br>
-<img src="https://github.com/user-attachments/assets/3df9a03b-90e1-4bbc-963d-37e91b7af62b" alt="image" width="400"/><br><br>
+<img src="https://github.com/user-attachments/assets/8b199edf-fe96-486f-848b-ab6b8a460546" alt="image" width="400"/><br><br>
 
 ### Model Eğitimi
 20 Epoch'daki değerler:
@@ -101,7 +101,7 @@ Veri setindeki dengeli dağılım<br>
 | 20    | 0.0180        | 0.0198          |
 
 Eğitim ve Doğrulama kaybının grafiği<br>
-<img src="https://github.com/user-attachments/assets/722e6bc7-b8c7-4930-a881-4e0f1bb58854" alt="image" width="400"/><br><br>
+<img src="https://github.com/user-attachments/assets/4f181356-707f-41ee-a88f-f580a23f59ab" alt="image" width="400"/><br><br>
 
 Modelin metrik değerleri:
 |                | precision | recall | f1-score |
